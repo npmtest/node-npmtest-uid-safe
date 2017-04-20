@@ -1,4 +1,7 @@
-# test coverage for  [uid-safe (v2.1.4)](https://github.com/crypto-utils/uid-safe#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-uid-safe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uid-safe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uid-safe.svg)](https://travis-ci.org/npmtest/node-npmtest-uid-safe)
+# npmtest-uid-safe
+
+#### basic test coverage for  [uid-safe (v2.1.4)](https://github.com/crypto-utils/uid-safe#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-uid-safe.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uid-safe) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uid-safe.svg)](https://travis-ci.org/npmtest/node-npmtest-uid-safe)
+
 #### URL and cookie safe UIDs
 
 [![NPM](https://nodei.co/npm/uid-safe.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/uid-safe)
